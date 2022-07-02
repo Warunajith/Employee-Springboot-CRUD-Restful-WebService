@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Employee-Springboot-CRUD-Restful-WebService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Employee_Springboot_CRUD_Restful_WebService_jar</output-path>
+    <root id="archive" name="Employee-Springboot-CRUD-Restful-WebService.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
